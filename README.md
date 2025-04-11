@@ -1,10 +1,12 @@
 # Bezier-Curves with-OpenTK
 Tool to create and display Bezier Curves with OpenTK | C#
 
+
 **Julius Steinbach**  
-Modul: ComputerGrafik
+Modul: Computer Grafik  
 Betreuer: Prof. Dr. Christof Rezk-Salama  
 Trier, 01.06.2024
+
 
 ![Abbildung1.1](Media/BezierCurve.png)
 
