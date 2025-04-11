@@ -2,9 +2,9 @@
 Tool to create and display Bezier Curves with OpenTK | C#
 
 **Julius Steinbach**  
-Modul: KI für Spiele  
+Modul: ComputerGrafik
 Betreuer: Prof. Dr. Christof Rezk-Salama  
-Trier, 15.02.2025
+Trier, 01.06.2024
 
 ![Abbildung1.1](Media/BezierCurve.png)
 
