@@ -1,7 +1,12 @@
 # Bezier-Curves with-OpenTK
 Tool to create and display Bezier Curves with OpenTK | C#
 
-# Bézier-Kurven mit OpenTK
+**Julius Steinbach**  
+Modul: KI für Spiele  
+Betreuer: Prof. Dr. Christof Rezk-Salama  
+Trier, 15.02.2025
+
+![Abbildung1.1](Media/BezierCurve.png)
 
 Dieses Projekt demonstriert die interaktive Erstellung von Bézier-Kurven mithilfe der OpenGL-Bibliothek **OpenTK** in **C#**. Es wurde im Rahmen eines Testats zur Vorlesung *"KI für Spiele"* umgesetzt und zeigt die Anwendung von Polynomkurven in einer grafischen Oberfläche.
 
